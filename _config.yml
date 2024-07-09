@@ -1,0 +1,12 @@
+title: NIKSHITA SARANGI
+
+description: Software Developer
+
+show_downloads: true
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+email: nikshita.sarangi16@gmail.com # Allow visitors to contact you
