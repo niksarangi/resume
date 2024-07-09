@@ -1,2 +1,2 @@
 # resume
-My Latest Resume
+My Latest Resume @ https://niksarangi.github.io/resume/
